@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408173916728",
+    "project_id": "insourcebanking-c8d38",
+    "storage_bucket": "insourcebanking-c8d38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408173916728:android:466b06ce9a6ef48aadaccd",
+        "android_client_info": {
+          "package_name": "com.example.insourse360banking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3PHuDEIgZTP4pvhz5X5oSAeuI-Q1t0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

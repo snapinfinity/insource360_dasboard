@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "insourcebanking-c8d38",
+          "appId": "1:408173916728:android:466b06ce9a6ef48aadaccd",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "insourcebanking-c8d38",
+          "configurations": {
+            "android": "1:408173916728:android:466b06ce9a6ef48aadaccd",
+            "web": "1:408173916728:web:a4315634a447fff3adaccd"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
